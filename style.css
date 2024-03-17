@@ -1,0 +1,57 @@
+body {
+    background-color: #121212;
+    color: #bdc1c6;
+    margin: 50px;
+}
+
+h2.Neema {
+    color: plum;
+}
+
+.container {
+    display: flex;
+    column-gap: 60px;
+}
+
+h2.Neema-reader {
+    font-size: xx-large;
+    border-bottom: double #bdc1c6;
+    color: plum;
+    font-family: 'Courier New', Courier, monospace; line-height: 48px
+}
+
+h2.Neema-filmmaker {
+    font-size: xx-large;
+    color: red;
+}
+
+h2.Neema-scholar {
+    font-size: xx-large;
+    color: #bdc1c6;
+
+}
+
+p.readcontent {
+    margin-bottom: 20px;
+    font-size: large;
+    color: #bdc1c6;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 48px;
+}
+
+img.Netflix {
+    margin-top: 40px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom:double #bdc1c6;
+}
+
+.movies {
+    margin-top: 40px;
+}
+
+div.index {
+    margin-left: auto;
+    margin-right: auto;
+}
