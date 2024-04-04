@@ -5,10 +5,10 @@
 ## DESCRIPTION
 A brief overview of who I am and what I like. 
 
-Glad that it's my first ever project.
+Glad that it's my first-ever project.
 
 ## LIVE SITE
-http://127.0.0.1:5501/index.html
+https://neema-charity.github.io/My-Portfolio/
 
 ## TECHNOLOGIES
 HTML
